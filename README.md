@@ -1,5 +1,5 @@
 # GalaxyMorphologyProject
-Final Project for CSC 181
+Final Project for CSC 180
 
 We were given free reign to choose a data set and objective.
 The goal of this project was to compare multiple transfer learning models against my own convolutional neural network to determine their effectiveness when identifying galaxy morphology.
